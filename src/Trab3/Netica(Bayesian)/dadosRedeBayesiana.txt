@@ -1,0 +1,11 @@
+VisitToAsia Smoking  Tuberculosis LungCancer TuberculosisOrCancer XRayResults Dyspnea  Bronchitis
+Visit	    Smoker    Absent       Absent     False                Abnormal    Present Absent
+NoVisit     Smoker    Absent       Absent     False   	           Normal      Absent  Absent
+NoVisit     Smoker    Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
+NoVisit     NonSmoker Absent       Absent     False                Normal      Absent  Absent
